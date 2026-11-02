@@ -1,61 +1,32 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:ec4899&height=180&section=header&text=Rahaf%20Alosaimi&fontSize=42&fontColor=ffffff" alt="Rahaf Alosaimi" />
-  <h3>Math Sciences Student · Applied Mathematics · Data Analysis</h3>
-  <p>Interested in using mathematics, programming, and data to build practical solutions.</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:111111&height=120&section=header&text=Rahaf%20Alosaimi&fontSize=36&fontColor=f9a8d4&stroke=f9a8d4&strokeWidth=1" alt="Rahaf Alosaimi" />
+  <p><strong>Mathematical Sciences Student</strong> · Applied Mathematics · Data Analysis</p>
+  <p>Building practical ideas with mathematics, programming, and data.</p>
+  <a href="https://www.linkedin.com/in/rahaf-faisal-/"><img src="https://img.shields.io/badge/LinkedIn-f9a8d4?style=flat-square&logo=linkedin&logoColor=111111" alt="LinkedIn" /></a>
+  <a href="https://x.com/blooming_r91"><img src="https://img.shields.io/badge/X-f9a8d4?style=flat-square&logo=x&logoColor=111111" alt="X" /></a>
+  <a href="mailto:ra9hafaisal@gmail.com"><img src="https://img.shields.io/badge/Email-f9a8d4?style=flat-square&logo=gmail&logoColor=111111" alt="Email" /></a>
 </div>
 
-## About Me
+## About
 
-- Math sciences student interested in applied mathematics and data analysis.
-- Exploring data driven projects, mathematical modeling, and web development.
+I’m a mathematical sciences student interested in applied mathematics, data analytics, and building useful tools.
 
-## Skills & Tools
+## Skills
 
-### Programming Languages
+**Languages:** Python · C++ · JavaScript · R · SQL  
+**Python & data:** Pandas · NumPy · Matplotlib · Seaborn · Plotly · scikit-learn  
+**Analytics tools:** Power BI · Excel · Jupyter Notebook · Tableau  
+**Web & databases:** HTML · CSS · APIs · MySQL · PostgreSQL  
+**Foundations:** Data cleaning · Data visualization · Statistics · Probability · Mathematical modeling · OOP · Data structures · Algorithms · Git · GitHub
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=ec4899)
-![C++](https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=ec4899)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=ec4899)
-![R](https://img.shields.io/badge/R-111111?style=for-the-badge&logo=r&logoColor=ec4899)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=ec4899)
+## Projects
 
-### Python & Data
+- [**Educational Needs System**](https://github.com/ra9hafaisal-blip/-) — A Python project that estimates educational needs using a data-driven approach.
+- [**MathProfit**](https://github.com/ra9hafaisal-blip/MathProfit-Calculate-Smart.-Profit-Better.) — A web app for exploring costs, profit, and break-even points.
+- [**Wasl**](https://github.com/ra9hafaisal-blip/-wasl) — A digital library for organizing quotes, ideas, and notes.
 
-![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=ec4899)
-![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=ec4899)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge&logo=python&logoColor=ec4899)
-![Seaborn](https://img.shields.io/badge/Seaborn-111111?style=for-the-badge&logo=python&logoColor=ec4899)
-![Plotly](https://img.shields.io/badge/Plotly-111111?style=for-the-badge&logo=plotly&logoColor=ec4899)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=ec4899)
-![Power BI](https://img.shields.io/badge/Power_BI-111111?style=for-the-badge&logo=powerbi&logoColor=ec4899)
-![Excel](https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoftexcel&logoColor=ec4899)
-![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter&logoColor=ec4899)
-![Tableau](https://img.shields.io/badge/Tableau-111111?style=for-the-badge&logo=tableau&logoColor=ec4899)
+---
 
-### Web, Databases & Developer Tools
-
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=ec4899)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=ec4899)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=ec4899)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=ec4899)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=ec4899)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=ec4899)
-
-### Areas of Interest
-
-- Data analysis, data cleaning, and data visualization
-- Statistics, probability, and mathematical modeling
-- Object-oriented programming, data structures, and algorithms
-- Web development and APIs
-
-## Featured Projects
-
-- **MathProfit** — A web app for exploring costs, profit, and break-even points.
-- **Wasl** — A digital library for organizing quotes, ideas, and notes.
-- **Educational Needs System** — A Python-based project for estimating educational needs.
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=ec4899)](https://www.linkedin.com/in/rahaf-faisal-/)
-[![X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=ec4899)](https://x.com/blooming_r91)
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=ec4899)](mailto:ra9hafaisal@gmail.com)
+<div align="center">
+  <sub>Made with curiosity and a little pink ✨</sub>
+</div>
